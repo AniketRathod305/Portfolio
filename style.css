@@ -1,0 +1,66 @@
+.simg{
+    width: 100%;
+    max-width: 240px;
+    height: auto;
+    padding: 2%;
+  }
+
+.simg2{
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+  }
+
+.ih{
+    height:200px
+}
+
+.sz{
+  height:80vh;
+}
+
+.ob{
+  display: flex;
+  margin: 2%;
+}
+
+.sz2{
+  height: 100%;
+  width: 100%;
+}
+
+.abtme{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+#abtmeimg{
+  height: 50vh;
+  width:50vw;
+  border-radius: 40%;
+}
+
+.ct{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white
+}
+
+.cheader{
+  background-color: black;
+  padding: 2%;
+}
+
+.card{
+margin : 1%;
+}
+
+.ftr{
+  width:100%;
+  height: 10vh;
+  background-color: black;
+}
